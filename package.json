@@ -1,0 +1,22 @@
+{
+  "name": "localstorage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "task": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndNeeeeewSite/localstorage-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndNeeeeewSite/localstorage-js/issues"
+  },
+  "homepage": "https://github.com/AndNeeeeewSite/localstorage-js#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
